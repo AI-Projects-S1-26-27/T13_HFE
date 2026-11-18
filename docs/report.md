@@ -142,7 +142,7 @@ these are pilot observations, not estimates for language models in general.
 | Priyanshu | 2023A7PS1095H | |
 | Puneet Singh | 2024A8PS0507H | |
 | Rithvik Reddy Manda | 2024AAPS0277H | |
-| Rohan Hasharth Amathaluri | 2023A7PS0015H | |
+| Rohan Harshith Amarthaluri | 2023A7PS0015H | |
 | Venkata Krishna Kaushik Karpurapu Naga | 2023AAPS0185H | |
 
 ## 8. AI usage disclosure — TEAM (required by the course guidelines)

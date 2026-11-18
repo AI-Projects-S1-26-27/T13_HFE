@@ -89,7 +89,7 @@ assignment.
 | [Girisha](#girisha) | [Girisha-coder](https://github.com/Girisha-coder) | Scenarios, human-preference benchmark, architecture and report docs | 13 |
 | [Priyanshu](#priyanshu) | [PriyanshuMahlawat](https://github.com/PriyanshuMahlawat) | Evaluation, Decision Lab API, OpenRouter and LLM agents | 12 |
 | [Puneet Singh](#puneet-singh) | [puneetsingh24680-hub](https://github.com/puneetsingh24680-hub) | Dilemmas, run journal, evaluation runner, LLM recordings, final integration | 12 |
-| [Rohan Hasharth Amathaluri](#rohan-hasharth-amathaluri) | [Rohanharsh163](https://github.com/Rohanharsh163) | FastAPI app, frontend for both labs, UI tests, presentation | 13 |
+| [Rohan Harshith Amarthaluri](#rohan-harshith-amarthaluri) | [Rohanharsh163](https://github.com/Rohanharsh163) | FastAPI app, frontend for both labs, UI tests, presentation | 13 |
 
 ### Debanshu Ghosh
 
@@ -184,7 +184,7 @@ assignment.
 | `.env.example` | Example environment configuration |
 | `requirements-dev.txt` | Development dependencies |
 
-### Rohan Hasharth Amathaluri
+### Rohan Harshith Amarthaluri
 
 - **Application server:** the FastAPI app that serves both labs, with routes for runs, reveals, replay, benchmarks, comparisons and exports.
 - **Before You Decide interface:** the main page, its frontend logic and the shared stylesheet.

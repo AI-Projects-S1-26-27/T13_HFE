@@ -24,6 +24,7 @@
     <div class="dl-tabs" role="tablist" aria-label="Decision Lab sections">
       <button class="dl-tab" role="tab" id="tab-dilemmas" aria-controls="panel-dilemmas" aria-selected="true" tabindex="0" data-tab="dilemmas">Dilemmas</button>
       <button class="dl-tab" role="tab" id="tab-evaluation" aria-controls="panel-evaluation" aria-selected="false" tabindex="-1" data-tab="evaluation">Evaluation</button>
+      <button class="dl-tab" role="tab" id="tab-llm" aria-controls="panel-llm" aria-selected="false" tabindex="-1" data-tab="llm">LLM agents</button>
     </div>
     <p class="dl-error" id="dl-error" role="alert" hidden></p>
     <section class="dl-panel" role="tabpanel" id="panel-dilemmas" aria-labelledby="tab-dilemmas" tabindex="0">
@@ -40,6 +41,9 @@
     </section>
     <section class="dl-panel" role="tabpanel" id="panel-evaluation" aria-labelledby="tab-evaluation" tabindex="0" hidden>
       <div id="dl-eval"><p class="muted">Loading…</p></div>
+    </section>
+    <section class="dl-panel" role="tabpanel" id="panel-llm" aria-labelledby="tab-llm" tabindex="0" hidden>
+      <div id="dl-llm"><p class="muted">Loading…</p></div>
     </section>
   </main>
 </body>
