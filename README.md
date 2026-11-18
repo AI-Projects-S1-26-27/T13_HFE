@@ -10,7 +10,7 @@ free quota.
 ## Quick start
 
 ```bash
-./start.sh            # macOS / Linux: creates .venv on first run
+bash start.sh           # macOS / Linux: creates .venv on first run
 ```
 
 ```powershell
